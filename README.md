@@ -1,4 +1,4 @@
-💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on React-based dashboards and UI widgets<br>👯 I’m looking to collaborate on frontend projects using React & TypeScript<br>🤝 I’m looking for help with optimizing large-scale React apps<br>🌱 I’m currently learning advanced Node.js and backend integration<br>💬 Ask me about SCSS architecture, UI/UX patterns, and design systems<br>⚡ Fun fact: I prefer crafting my own components instead of relying too much on libraries
 
 
